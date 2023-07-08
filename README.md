@@ -1,16 +1,31 @@
-# movies_app
+# Movies App
 
-A new Flutter project.
+A Basic Flutter Application that displays popular, top-rated, and Now Playing Movies
 
-## Getting Started
+## Technologies 
 
-This project is a starting point for a Flutter application.
+Dart Programming language
 
-A few resources to get you started if this is your first Flutter project:
+Flutter Framework
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+themoviedb API handled by Dio Package
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bloc as State management
+
+Clean Architecture
+
+## Installation
+
+You can download the app through the link below
+
+https://drive.google.com/file/d/12eppNUM558g2VxaoIW38LDxBvS-lw_gb/view?usp=sharing
+
+## Photos
+
+## Home Layout Screen
+
+
+![WhatsApp Image 2023-07-08 at 16 29 49](https://github.com/Shehab611/Movies_App/assets/77563526/5d6fad54-cb84-4850-9304-abc3039d2e3d)
+
+
+
